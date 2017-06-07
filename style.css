@@ -1,0 +1,76 @@
+html{
+	text-align: center;
+}
+
+h1{
+	color: #008bbf;
+	font-family: sans-serif;
+}
+
+.program {
+	font-family: sans-serif;
+	color: #888abd;
+}
+
+.haha {
+	outline-style: solid;
+	outline-color: #dd789f;
+	border-color: #008bbf;
+}
+.woohoo{
+	border-color: #345ffb;
+	outline-style: dashed;
+	outline-color: #475def;
+}
+.yay {
+	border-color: #93dacf;
+	outline-style: ridge;
+	outline-color: #8f8f3f;
+}
+.bye {
+	border-color: #283fff;
+	outline-style: ridge;
+	outline-color: #3a4b5c;
+}
+
+#string {
+	font-family: verdana, serif;
+	color: #7a8a9a;
+	font-style: oblique; 
+}
+
+#array {
+	font-family: verdana, serif;
+	color: #777aaa;
+}
+
+#symbol {
+	font-family: verdana, serif;
+	color: #a1a2a3;
+}
+
+.str1 {
+	font-family: verdana, serif;
+	color: #7a8a9a;
+	font-style: oblique; 
+	font-weight: 300;
+}
+
+.arr1 {
+	font-family: verdana, serif;
+	color: #777aaa;
+	font-weight: 100;
+}
+.sym1 {
+	font-family: verdana, serif;
+	color: #a1a2a3;
+	font-weight: 100;
+}
+
+.hoop {
+	border-image: round; 
+}
+
+.haap {
+	border-image: stretch; 
+}
